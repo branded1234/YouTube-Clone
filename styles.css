@@ -190,7 +190,6 @@ main{
     cursor: pointer;
     transition: 0.2s ease-in-out;
     border-radius: 0;
-    transform: scale(1.01);
 }
 .side-icons:hover, button:hover, .mic:hover, .side-nav .video:hover, .side-nav .grid:hover, 
 .side-nav .bell:hover, .bars img:hover, .light:hover{
